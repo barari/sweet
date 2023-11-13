@@ -1,0 +1,13 @@
+ Volume in drive D is University
+ Volume Serial Number is ECCC-F2B0
+
+ Directory of D:\NIT_Courses\1402-01\03_Az_Eng\sweet
+
+11/13/2023  04:43 PM    <DIR>          .
+11/13/2023  04:43 PM    <DIR>          ..
+11/13/2023  04:38 PM            49,534 Cream-bread.jpg
+11/13/2023  04:43 PM                 0 dir.txt
+11/13/2023  04:38 PM            11,136 Notes.txt
+11/13/2023  04:42 PM               131 README.md
+               4 File(s)         60,801 bytes
+               2 Dir(s)  226,606,718,976 bytes free
